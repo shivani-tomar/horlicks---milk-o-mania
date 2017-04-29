@@ -1,2 +1,3 @@
 # horlicks---milk-o-mania
-game repository
+
+A 2-d game for kids built on the constuct2 platform 
